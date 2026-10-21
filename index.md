@@ -2,7 +2,7 @@
 
 Hello! My name is **ShengYao**. I study *Computer Science* at the University of Washington. This page describes my academic interests and experience.
 
-![A photo of me](me.jpg "A photo of me")
+![A photo of me](me.jpeg "A photo of me")
 
 ## Academics
 

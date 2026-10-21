@@ -6,7 +6,7 @@ Hello! My name is **ShengYao**. I study *Computer Science* at the University of 
 
 ## Academics
 
-I am currently taking **ENGL 396: Software Documentation**, **CSE447 Natural Language Processing**, and **CSE475 Embedded Systems Capstone**. After I graduate, I hope to work as a *Software Engineer* or in a related field.
+I am currently taking **ENGL 396 Software Documentation**, **CSE447 Natural Language Processing**, and **CSE475 Embedded Systems Capstone**. After I graduate, I hope to work as a *Software Engineer* or *Sales Engineer*.
 
 Here is a list of my favorite classes:
 
